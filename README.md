@@ -13,7 +13,7 @@ Especializado en el diseño de sistemas distribuidos, arquitectura limpia, micro
 - **Infraestructura:** Docker, GitHub Actions, OpenShift, Jenkins  
 - **Cloud:** AWS (Lambda, S3, EC2, IAM, EventBridge), Terraform  
 - **Mensajería & APIs:** Apache Kafka, OpenAPI, REST  
-- **Bases de datos:** PostgreSQL, Oracle
+- **Bases de datos:** PostgreSQL, Oracle, MySQL
 
 ---
 
